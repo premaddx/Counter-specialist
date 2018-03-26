@@ -1,0 +1,9 @@
+export const ADD_TODO ='ADD_TODO';
+export const SET_IS_COMPLETE = 'MARK_TODO_COMPLETE';
+export const REMOVE_TODO = 'REMOVE_TODO';
+export const ADD_COUNTER = 'ADD_COUNTER';
+export const DELETE_COUNTER = 'DELETE_COUNTER';
+export const INCREMENT_COUNTER = 'INCREMENT_COUNTER';
+export const DECREMENT_COUNTER = 'DECREMENT_COUNTER';
+
+
